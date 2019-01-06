@@ -1,0 +1,18 @@
+{
+    "name": "KMTestBot12",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "cf8d74b9-532c-4eaf-bbcb-ef17ca86fd48",
+            "appPassword": "/Elb;gmZb5BvE;b1",
+            "endpoint": "http://localhost:3979/api/messages",
+            "id": "b240e860-1168-11e9-990e-4b009cf67711",
+            "name": "http://localhost:3979/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "D:\\Development\\Courseware\\Topics\\Basic Chatbots\\Session 9 - Using Bot with Cortana\\AdaptiveCardDemo - Final\\KMTestBot12.bot"
+}
