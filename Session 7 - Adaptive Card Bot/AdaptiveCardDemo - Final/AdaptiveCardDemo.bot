@@ -1,0 +1,18 @@
+{
+    "name": "AdaptiveCardDemo",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "id": "a30148f0-060e-11e9-b7fd-056f6106c8a4",
+            "name": "http://localhost:3979/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "D:\\Development\\Courseware\\Topics\\Basic Chatbots\\Session 7 - Adaptive Card Bot\\AdaptiveCardDemo - Final\\AdaptiveCardDemo.bot"
+}
